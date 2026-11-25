@@ -2,7 +2,7 @@
 
 Writes the proxy-tournament winning line (C2, 5-0 in the Groq round-robin)
 to /output/entry.txt: an agent's 4am commit after a long night fixing the
-bugs it wrote itself, each fix unspooling the previous one.
+bugs it wrote itself, each fix unspooling the previous one, back to lunch.
 """
 from pathlib import Path
 
